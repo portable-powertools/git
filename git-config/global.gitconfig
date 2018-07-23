@@ -1,0 +1,7 @@
+[alias]
+	tree = log --graph --decorate --pretty=oneline --abbrev-commit
+[user]
+	name = Simon Leischnig
+	email = simon-jena@gmx.net
+[core]
+	excludesfile = /home/leis_si/.config/module_git/global.gitignore
