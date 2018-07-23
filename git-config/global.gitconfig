@@ -4,4 +4,6 @@
 	name = Simon Leischnig
 	email = simon-jena@gmx.net
 [core]
-	excludesfile = /home/leis_si/.config/module_git/global.gitignore
+	excludesfile = ~/.config/module_git/global.gitignore
+[hub]
+	protocol = https
