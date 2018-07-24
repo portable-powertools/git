@@ -1,3 +1,8 @@
+# touchstone stuff
+/.local
+/unmanaged
+/.ts
+
 # swap files
 .nfs*
 aa
