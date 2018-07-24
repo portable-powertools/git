@@ -7,3 +7,5 @@
 	excludesfile = ~/.config/module_git/global.gitignore
 [hub]
 	protocol = https
+[credential]
+	helper = cache --timeout=50000
