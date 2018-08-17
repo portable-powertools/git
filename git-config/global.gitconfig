@@ -9,3 +9,5 @@
 	excludesfile = ~/.config/module_git/global.gitignore
 [hub]
 	protocol = https
+[push]
+	default = matching
