@@ -2,6 +2,7 @@ r touchstone stuff
 /.local
 /unmanaged
 /.ts
+/logs
 
 # swap files
 .nfs*
