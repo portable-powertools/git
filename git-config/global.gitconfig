@@ -7,7 +7,7 @@
 	email = simon-jena@gmx.net
 [core]
 	excludesfile = ~/.config/module_git/global.gitignore
-[hub]
-	protocol = https
 [push]
 	default = matching
+[hub]
+    protocol = ssh

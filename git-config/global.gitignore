@@ -1,8 +1,17 @@
-r touchstone stuff
+# unignores
+!.lvimrc
+
+
+# touchstone stuff
 /.local
 /unmanaged
 /.ts
 /logs
+/**/tags
+
+# vim stuff
+__Scratch__
+.qf
 
 # swap files
 .nfs*
